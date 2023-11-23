@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Customers>
+	<Customer>
+		<ID>1</ID>
+		<Transactions>
+			<Transaction>
+				<Value>123.0</Value>
+				<Paid>false</Paid>
+			</Transaction>
+			<Transaction>
+				<Value>501.0</Value>
+				<Paid>true</Paid>
+			</Transaction>
+		</Transactions>
+	</Customer>
+	<Customer>
+		<ID>2</ID>
+		<Transactions>
+			<Transaction>
+				<Value>123.0</Value>
+				<Paid>false</Paid>
+			</Transaction>
+			<Transaction>
+				<Value>456.0</Value>
+				<Paid>true</Paid>
+			</Transaction>
+		</Transactions>
+	</Customer>
+	<Customer>
+		<ID>3</ID>
+		<Transactions>
+			<Transaction>
+				<Value>123.0</Value>
+				<Paid>false</Paid>
+			</Transaction>
+		</Transactions>
+	</Customer>
+	<Customer>
+		<ID>4</ID>
+		<Transactions>
+			<Transaction>
+				<Value>123.0</Value>
+				<Paid>true</Paid>
+			</Transaction>
+		</Transactions>
+	</Customer>
+</Customers>
